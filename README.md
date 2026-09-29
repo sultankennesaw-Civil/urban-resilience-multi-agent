@@ -6,6 +6,8 @@
 
 This research concept/prototype explores how agentic AI can interact with a SUMO-based urban transportation simulation to support emergency-response decision making. Its existing research foundation combines SUMO traffic simulation, Unity/VR visualization, emergency vehicle operation, road-block and hazard scenarios, route and traffic metrics, and human-in-the-loop interaction. The next research phase proposes a lightweight multi-agent layer for querying simulation state and supporting what-if analyses. Operators would retain responsibility for interpreting results and making decisions.
 
+![UrbanResilience simulation](Simulation)
+
 ## Motivation
 
 Blocked roads, flooding, infrastructure disruption, and congestion can rapidly change transportation conditions during urban emergencies. This research direction explores natural-language, tool-using AI agents as a way for operators to interact with simulation data alongside conventional simulation interfaces.
